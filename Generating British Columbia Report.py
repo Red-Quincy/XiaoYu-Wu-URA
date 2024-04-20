@@ -364,7 +364,7 @@ ws['d9'] = ws['d7'].value/ws['d8'].value
 ws['e9'] = ws['e7'].value/ws['e8'].value
 
 # Specify the path where you want to save the file
-placeholder = r"C:\Users\redqu\OneDrive\Waterloo\2AB\XiaoYuURA\BritishColumbia\Results\ 60021540-2022Results.xlsx"
+placeholder = r"CHANGE THIS TO THE PATH TO WHERE YOU WANT THE RESULTS TO GO\ 60021540-2022Results.xlsx"
 placeholder = placeholder.split()
 thing = counterStation,'-',year,'Results.xlsx'
 placeholder[-1]=''.join(thing)
@@ -744,7 +744,7 @@ ws['d9'] = ws['d7'].value/ws['d8'].value
 ws['e9'] = ws['e7'].value/ws['e8'].value
 
 # Specify the path where you want to save the file
-placeholder = r"C:\Users\redqu\OneDrive\Waterloo\2AB\XiaoYuURA\BritishColumbia\Results\ 60021540-2022Results.xlsx"
+placeholder = r"CHANGE THIS TO THE PATH TO WHERE YOU WANT THE RESULTS TO GO\ 60021540-2022Results.xlsx"
 placeholder = placeholder.split()
 thing = counterStation,'-',year,'Results.xlsx'
 placeholder[-1]=''.join(thing)
